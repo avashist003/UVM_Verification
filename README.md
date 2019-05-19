@@ -1,2 +1,2 @@
 # UVM_AdvanceTb
-Advance UVM testbench with DPI integration, Assertions, Functional Coverage andHierarchical Sequence
+Advance UVM testbench with DPI integration, Assertions, Functional Coverage and Hierarchical Sequence
