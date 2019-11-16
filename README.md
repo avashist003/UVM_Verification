@@ -1,4 +1,12 @@
 ## UVM_AdvanceTb
-#Advance UVM testbench with DPI integration, Assertions, Functional Coverage and Hierarchical Sequence
+# Advance UVM testbench with DPI integration, Assertions, Functional Coverage and Hierarchical Sequence
+
+In this project a complete verification testbench architecture for a result character conversion chip is constructed.
+
 
 ![uvm_arch_v2](https://user-images.githubusercontent.com/13079690/69000332-b9e58000-089b-11ea-8f1e-323dc407b2ca.png)
+
+- The testcase used for verification are the randomly generated input transactions for the DUT.
+- Further the functional verification is performed by comparing the output of the DUT with that of reference model.
+- To implement the reference model direct programming interface (DPI) functionality of SystemVerilog is used.
+- The reference model is the software implementation of the DUT written using the C-programming language. 
