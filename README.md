@@ -1,5 +1,4 @@
-## UVM_AdvanceTb
-# Advance UVM testbench with DPI integration, Assertions, Functional Coverage and Hierarchical Sequence
+## Advance UVM testbench with DPI integration, Assertions, Functional Coverage and Hierarchical Sequence
 
 In this project a complete verification testbench architecture for a result character conversion chip is constructed.
 
