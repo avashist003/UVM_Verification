@@ -1,4 +1,4 @@
-## Advance UVM testbench with DPI integration, Assertions and Functional Coverage
+## UVM testbench with DPI integration, Assertions and Functional Coverage
 
 In this project a complete verification testbench architecture for a result character conversion chip is constructed.
 
